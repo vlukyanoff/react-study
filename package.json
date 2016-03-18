@@ -1,0 +1,11 @@
+{
+  "name": "react-study",
+  "version": "1.0.0",
+  "description": "React study",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Viacheslav Lukianov",
+  "license": "MIT"
+}
